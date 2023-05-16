@@ -68,7 +68,7 @@ Cando **gastas un tempo ininterrumpido (unha hora ou así) en comuñón tranquil
 - Preparas todos os teus ritos, os cales non contan cara o teu límite.
 
 ### Lanzar un feitizo
-Cando **lanzas un feitizo concedido pola túa deidade**, rola+SAB. ✴Nun 10+, o feitizo é exitoso e a túa deidade non cho retira. Nun 7–9, o feitizo é lanzado, pero escolle unha:
+Cando **lanzas un feitizo concedido pola túa deidade**, rola+SAB. ✴Nun 10+, o feitizo é exitoso e a túa deidade non cho retira. ✴Nun 7–9, o feitizo é lanzado, pero escolle unha:
 
 - Chamas atención indesexada ou quedas nunha posición perigosa. A DX dirache como.
 - O lanzamento distánciate da túa deidade: resta -1 ao *lanzar feitizos* ata que volvas *comungar*.
