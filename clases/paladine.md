@@ -3,7 +3,7 @@ O inferno agarda. Unha eternidade de tormento en lume, ou xeo, ou o que sexa apr
 
 Tes os ollos, mans, e golpe de graza das deidades. Teu é o agasallo da honra e da virtude; e da xustiza e da visión, tamén. Unha pureza de intencións da que carecen ês túes compañeires.
 
-Así que guía a estes insensates, paladine. Toma a túa causa sagrada e trae salvación a este mundo baldío.
+Así que guía a esties insensates, paladine. Toma a túa causa sagrada e trae salvación a este mundo baldío.
 
 *Vae victis*, non é?
 

@@ -19,6 +19,10 @@ Este repositorio contén unha tradución parcial do texto libre do xogo de rol *
 - [Montaraz](clases/montaraz.md)
 - [Paladina](clases/paladine.md)
 
+### Fichas descargables
+
+- Ficha de PX básica: [dixital](fichas/dixital/basica.pdf)
+
 ## Obxectivos
 
 Esta tradución **non é oficial nin profesional**, tan só é un esforzo comunitario por poñer en común a terminoloxía e linguaxe de Dungeon World, así como proveer de material gratuíto en galego que poder usar de referencia para partidas en galego.
