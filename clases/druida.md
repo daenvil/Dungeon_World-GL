@@ -1,4 +1,5 @@
 ---
+title: Ê Druída
 parent: Clases
 ---
 

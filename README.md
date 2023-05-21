@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # Dungeon World - Texto de referencia básico en galego
 
 Este repositorio contén unha tradución parcial do texto libre do xogo de rol *Dungeon World* ao galego. O texto orixinal pode atoparse en [https://github.com/Sagelt/Dungeon-World](https://github.com/Sagelt/Dungeon-World).

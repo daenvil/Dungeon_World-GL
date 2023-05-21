@@ -1,4 +1,5 @@
 ---
+title: Ê Barde
 parent: Clases
 ---
 

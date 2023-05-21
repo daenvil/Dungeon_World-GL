@@ -1,4 +1,5 @@
 ---
+title: Ê Ladroe
 parent: Clases
 ---
 

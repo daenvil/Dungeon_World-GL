@@ -1,4 +1,5 @@
 ---
+title: Ê Guerreire
 parent: Clases
 ---
 

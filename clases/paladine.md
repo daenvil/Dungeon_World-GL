@@ -1,4 +1,5 @@
 ---
+title: Ê Paladine
 parent: Clases
 ---
 
