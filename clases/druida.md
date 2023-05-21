@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Druída
 Bota unha ollada ao redor da fogueira. O que che trouxo ao lado desta xente, fedendo ao pó e suor da cidade? Quizais por bondade: protéxees igual que unha nai oso coida dos seus cachorros? Son esta xente a túa manada? Estrañes irmaes estes que tes. Sexa como for, fracasarían sen ningunha dúbida de non contar cos teus agudos sentidos e afiadas garras.
 

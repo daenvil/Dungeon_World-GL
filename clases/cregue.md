@@ -1,3 +1,9 @@
+---
+title: Ê Cregue
+parent: Clases
+has_children: true
+---
+
 # Ê Cregue
 As terras de *Dungeon World* son un desastre deixado da man das deidades. Están ateigadas de mortos vivintes, bestas de todo tipo, e vastos espazos antinaturais que separan as civilizacións seguras e bendecidas polos templos. Aí fóra hai un mundo sen deidades, e por iso mesmo ese mundo te necesita.
 

@@ -1,3 +1,8 @@
+---
+parent: Ê Mague
+grand_parent: Clases
+---
+
 # Feitizos de mague
 
 ## Trucos

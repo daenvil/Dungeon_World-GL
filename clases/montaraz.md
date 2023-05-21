@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Montaraz
 Esta xente de cidade coa que viaxas... algunha vez ouviron a chamada do lobo? sentiron o vento murmurar nos desertos desolados do Leste? cazaron a súa presa con arco e coitelo coma ti? Nin de broma. Por iso te precisan.
 

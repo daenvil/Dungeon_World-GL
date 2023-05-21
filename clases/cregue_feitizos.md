@@ -1,3 +1,8 @@
+---
+parent: Ê Cregue
+grand_parent: Clases
+---
+
 # Feitizos de cregue
 
 ## Ritos

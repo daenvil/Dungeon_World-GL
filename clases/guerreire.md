@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Guerreire
 Vivir día a día da túa armadura e da destreza do teu brazo, mergullándote sen pensalo no perigo, é un traballo desagradecido. Ninguén fará soar os cornos de ouro por aquela vez que te apuñalaron nas costelas protexéndoes nun bar de Bucksberg. Ningunha bandada de anxos cantará sobre aquela vez que ês sacaches a rastras, aínda gritando, do borde dos Fosos da Loucura.
 

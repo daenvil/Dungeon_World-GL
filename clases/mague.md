@@ -1,3 +1,9 @@
+---
+title: Ê Mague
+parent: Clases
+has_children: true
+---
+
 # Ê Mague
 *Dungeon World* ten regras: non as leis da humanidade nin as dalgún insignificante tirano; regras maiores e mellores. Soltas algo: cae. Non podes crear algo da nada. Os mortos fican mortos, non?
 

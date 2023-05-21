@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Barde
 Os poemas din que a vida de aventureire é todo camiños abertos, gloria en batalla, e riquezas. Os contos que se escoitan nas pousadas deben ter algo de verdade, non? As cancións que inspiran tanto ao campesinado como á nobreza —xa sexa para calmar bestas salvaxes ou para facer entolecer ás persoas— teñen que vir dalgunha parte.
 

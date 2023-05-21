@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Ladroe
 Escoitaches ao grupo falando ao redor da fogueira, presumindo dalgunha batalla ou de como as súas deidades vos sonríen. Ti contas as túas moedas e sonríes para o teu interior: esta é a maior emoción. Só ti sabes o segredo de *Dungeon World*: sucio, sucio diñeiro.
 

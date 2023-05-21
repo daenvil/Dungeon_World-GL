@@ -1,3 +1,7 @@
+---
+parent: Clases
+---
+
 # Ê Paladine
 O inferno agarda. Unha eternidade de tormento en lume, ou xeo, ou o que sexa apropiado para os pecados da xente condenada de *Dungeon World*. Ti es todo o que se interpón entre esa horrenda tortura e a salvación. Unha persoa sagrada, unha máquina acorazada de guerra, unhe templarie do Ben e da Luz, certo? Ê cregue rezará de noite ás deidades que habitan nos seus ceos, ê guerreire empuñará a súa afiada espada en nome do Ben, mais ti sabes a verdade. Só ti.
 
