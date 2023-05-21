@@ -1,4 +1,5 @@
 ---
+title: Dungeon World en galego
 nav_order: 1
 ---
 # Dungeon World - Texto de referencia básico en galego
