@@ -59,12 +59,12 @@ Cando **atacas a unhe inimigue sorprendide ou indefense**, podes escolle entre f
 Cando **alguén intenta detectar o teu aliñamento**, podes dicirlle calquera aliñamento que queiras.
 
 ### Envenenadore
-Dominaches o coidado e uso dun tipo de veneno. Escolle un veneno da lista de abaixo: ese veneno deixa de ser perigoso de usar para ti, e comezas con tres usos dese veneno. Cando **teñas tempo para recolectar materiais e un lugar seguro no que elaborar venenos**, podes fabricar tres usos do veneno que escolliches gratuitamente. Ten en conta que algúns venenos son *aplicados*, o que quere dicir que terás que aplicalos coidadosamente no obxectivo ou nalgo que coma ou beba. Os venenos de *toque* só precisan tocar o obxectivo, poden ser incluso usados na folla dunha arma.
+Dominaches o coidado e uso dun tipo de veneno. Escolle un veneno da lista de abaixo: ese veneno deixa de ser perigoso de usar para ti, e comezas con tres usos dese veneno. Cando **teñas tempo para recolectar materiais e un lugar seguro no que elaborar venenos**, podes fabricar tres usos do veneno que escolliches gratuitamente. Ten en conta que algúns venenos son *aplicados*, o que quere dicir que terás que aplicalos coidadosamente no obxectivo ou nalgo que coma ou beba. Os venenos de *contacto* só precisan tocar o obxectivo, poden ser incluso usados na folla dunha arma.
 
 - Aceite de Tagit (*aplicado*): o obxectivo cae nun sono lixeiro.
-- Herba de sangue (*toque*): o obxectivo resta -1d4 ás súas roladas de dano ata que sexa curado.
+- Herba de sangue (*contacto*): o obxectivo resta -1d4 ás súas roladas de dano ata que sexa curado.
 - Raíz dourada (*aplicado*): o obxectivo trata á próxima criatura que vexa como unha aliada de confianza, ata que se demostre o contrario.
-- Lágrimas de serpe (*toque*): calquera que faga dano ao obxectivo rola dúas veces e toma o mellor resultado.
+- Lágrimas de serpe (*contacto*): calquera que faga dano ao obxectivo rola dúas veces e toma o mellor resultado.
 
 ## Aliñamento
 Escolle un aliñamento:
@@ -125,7 +125,7 @@ Nunca es collide por sorpresa. Cando **unhe inimigue te collería por sorpresa**
 Despois de usar un veneno unha vez, este deixa de ser perigoso de usar para ti.
 
 ### Envenenar
-Podes aplicar incluso venenos complexos dunha soa pinchada. Cando **aplicas un veneno non perigoso para ti na túa arma**, podes usalo como se tivese a etiqueta de *toque* no lugar de *aplicado*.
+Podes aplicar incluso venenos complexos dunha soa pinchada. Cando **aplicas un veneno non perigoso para ti na túa arma**, podes usalo como se tivese a etiqueta de *contacto* no lugar de *aplicado*.
 
 ### Cociñeire
 Cando **tes tempo para recolectar materiais e un lugar seguro no que elaborar venenos**, podes crear tres doses de calquera veneno que teñas usado anteriormente.
