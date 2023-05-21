@@ -114,7 +114,7 @@ A forma será inestable e temporal.
 
 Un monstro aparece e te axuda o mellor que pode. Trátao como se fose a túa personaxe, pero con acceso só ás xogadas básicas. Ten un modificador de +1 en todas as características, 1 PG, e usa o teu dado de dano. Ademais, escolle 1d6 das seguintes opcións:
 
-Ten +2 en lugar de +1 nunha das súas características.
+- Ten +2 en lugar de +1 nunha das súas características.
 - Non é imprudente.
 - Fai 1d8 de dano.
 - O seu vencello co teu plano é forte: o monstro recibe +2 PG por cada un dos teus niveis.
