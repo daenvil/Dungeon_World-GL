@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Dungeon World en galego
 nav_order: 1
 ---
