@@ -1,5 +1,5 @@
 ---
-nav_order: 3
+nav_order: 4
 ---
 # Equipo
 Cada peza de equipo ten certo número de etiquetas. Estas dinche como o equipo afecta á personaxe que o usa (como +armadura) ou suxírenche algo sobre a forma na que é usado (como as etiquetas de alcance). Como todo o demais en *Dungeon World*, as etiquetas guían a ficción que estás creando no xogo. Se unha arma é *torpe*, pode significar que será máis probable que se che caia ao fallar unha rolada de *combate corpo a corpo*.

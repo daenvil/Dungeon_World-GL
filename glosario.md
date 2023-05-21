@@ -1,3 +1,6 @@
+---
+nav_order: 4
+---
 # Glosario de termos [GL/EN]
 
 Unha lista de termos comúns usados nesta tradución xunto ao termo inglés orixinal. Usa `ctrl+F` (ou equivalente) para procurar o termo que queiras na páxina.
