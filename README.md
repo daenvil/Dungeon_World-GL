@@ -65,6 +65,7 @@ No [glosario de termos](glosario.md) recopílase un índice de termos a usar de 
 
 ### Agradecementos
 
+- [Contribuíntes a este repositorio](https://github.com/daenvil/Dungeon_World-GL/graphs/contributors).
 - [Viri / Xerbud](https://mastodon.gal/@viriato), que aportou as súas propias traducións.
 
 ## Licencia
