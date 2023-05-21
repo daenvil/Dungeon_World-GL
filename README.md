@@ -2,6 +2,7 @@
 layout: default
 title: Dungeon World en galego
 nav_order: 1
+permalink: /
 ---
 # Dungeon World - Texto de referencia básico en galego
 
