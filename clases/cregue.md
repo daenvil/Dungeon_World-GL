@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ê Cregue
 parent: Clases
 has_children: true

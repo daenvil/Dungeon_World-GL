@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ê Mague
 parent: Clases
 has_children: true
