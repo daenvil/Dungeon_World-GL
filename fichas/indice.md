@@ -7,4 +7,4 @@ nav_order: 5
 
 ## Fichas de personaxe
 
-- Ficha de PX básica: [dixital](fichas/dixital/basica.pdf)
+- Ficha de PX básica: [dixital](https://daenvil.github.io/Dungeon_World-GL/fichas/dixital/basica.pdf)

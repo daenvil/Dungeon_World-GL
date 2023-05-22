@@ -28,7 +28,7 @@ Este repositorio contén unha tradución parcial do texto libre do xogo de rol *
 
 ### Fichas descargables
 
-- Ficha de PX básica: [dixital](fichas/dixital/basica.pdf)
+- Ficha de PX básica: [dixital](https://daenvil.github.io/Dungeon_World-GL/fichas/dixital/basica.pdf)
 
 ## Obxectivos
 
