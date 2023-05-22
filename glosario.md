@@ -31,7 +31,7 @@ Unha lista de termos comúns usados nesta tradución xunto ao termo inglés orix
 
 ## Termos de ambientación
 
-- 'Miúde/a/o' (*halfling*) *[Termo provisional. As palabras máis "oficiais" son 'metadílie' en portugués e 'mediane' en castelán. Ningunha das dúas me parece apropiada. 'Miúde' penso que é o suficientemente simple e descriptivo como para entenderse neste contexto.]*
+- 'Miúde/a/o' (*halfling*) *[Termo provisional. As palabras máis "oficiais" son 'metadílie' en portugués e 'mediane' en castelán. Ningunha das dúas me parece apropiada. 'Miúde' penso que é o suficientemente simple e descritivo como para entenderse neste contexto.]*
 - 'Portas Negras da Morte' (*Black Gates of Death*)
 
 ## Características
