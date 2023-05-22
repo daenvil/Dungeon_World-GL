@@ -11,3 +11,8 @@ back_to_top_text: "Volver arriba"
 aux_links:
   "Repositorio en GitHub":
     - "//github.com/daenvil/Dungeon_World-GL"
+
+nav_external_links:
+  - title: Repositorio en GitHub
+    url: https://github.com/daenvil/Dungeon_World-GL
+    hide_icon: false

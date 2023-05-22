@@ -3,6 +3,7 @@ layout: default
 title: Feitizos de mague
 parent: Ê Mague
 grand_parent: Clases
+permalink: /clases/mague/feitizos
 ---
 
 # Feitizos de mague
