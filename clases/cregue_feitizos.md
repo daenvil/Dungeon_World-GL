@@ -3,6 +3,7 @@ layout: default
 title: Feitizos de cregue
 parent: Ê Cregue
 grand_parent: Clases
+permalink: /clases/cregue/feitizos
 ---
 
 # Feitizos de cregue
