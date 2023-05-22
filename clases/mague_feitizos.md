@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feitizos
+title: Feitizos de mague
 parent: Ê Mague
 grand_parent: Clases
 ---

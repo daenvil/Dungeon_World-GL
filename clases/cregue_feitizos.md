@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feitizos
+title: Feitizos de cregue
 parent: Ê Cregue
 grand_parent: Clases
 ---

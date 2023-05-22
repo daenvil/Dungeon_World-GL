@@ -7,3 +7,7 @@ permalink: /:slug
 
 back_to_top: true
 back_to_top_text: "Volver arriba"
+
+aux_links:
+  "Repositorio en GitHub":
+    - "//github.com/daenvil/Dungeon_World-GL"
