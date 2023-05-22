@@ -3,7 +3,7 @@ nav_order: 2
 ---
 # Xogadas básicas
 ## Combate corpo a corpo (*Hack and Slash*)
-Cando **atacas a unhe inimigue en combate corpo a corpo**, rola+FOR. ✴Nun 10+, fas o teu dano ae inimigue e evitas o seu ataque. Opcionalmente, podes escoller facer +1d6 de dano expoñéndote ao ataque inimigo. ✴Nun 7–9, fas o teu dano fas o teu dano ae inimigue e ele fai un ataque contra ti.
+Cando **atacas a unhe inimigue en combate corpo a corpo**, rola+FOR. ✴Nun 10+, fas o teu dano ae inimigue e evitas o seu ataque. Opcionalmente, podes escoller facer +1d6 de dano expoñéndote ao ataque inimigo. ✴Nun 7–9, fas o teu dano ae inimigue e ele fai un ataque contra ti.
 
 ## Disparar (*Volley*)
 Cando **apuntas e disparas ae unhe inimigue ao teu alcance**, rola+DES. ✴Nun 10+, tes un tiro limpo: fai o teu dano. ✴Nun 7–9, escolle unha opción e fai o teu dano:
