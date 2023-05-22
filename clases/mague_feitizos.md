@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Feitizos
 parent: Ê Mague
 grand_parent: Clases

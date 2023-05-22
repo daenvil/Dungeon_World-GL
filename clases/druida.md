@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ê Druída
 parent: Clases
 ---

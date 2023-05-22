@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ê Montaraz
 parent: Clases
 ---
